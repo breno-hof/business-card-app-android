@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="dev_name">Breno Ferreira</string>
+    <string name="dev_role">Senior Software Developer</string>
+    <string name="dev_phone_number">+55 (31) 9 9543 2235</string>
+    <string name="dev_email">brenohof@gmail.com</string>
+    <string name="dev_share_link">github.com/breno-hof</string>
+</resources>

@@ -111,17 +111,17 @@ fun ContactInfoSection() {
         ContactInfoRow(
             icon = Icons.Rounded.Phone,
             text = stringResource(R.string.dev_phone_number),
-            modifier = Modifier.weight(1f)
+            modifier = Modifier
         )
         ContactInfoRow(
             icon = Icons.Rounded.Share,
             text = stringResource(R.string.dev_share_link),
-            modifier = Modifier.weight(1f),
+            modifier = Modifier
         )
         ContactInfoRow(
             icon = Icons.Rounded.Email,
             text = stringResource(R.string.dev_email),
-            modifier = Modifier.weight(1f)
+            modifier = Modifier
         )
     }
 }
